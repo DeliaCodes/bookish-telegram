@@ -3,12 +3,16 @@
 }
 
 body {
-  background: url(./black-background-close-up-colors-1356300.jpg) no-repeat center center fixed;
+  background-color: black;
   width: 100%;
   height: auto;
+  display: flex;
 }
 
 h1 {
 font-family: 'Roboto Slab', serif;
+color: aliceblue;
+margin: auto;
+
 }
 
