@@ -1,7 +1,7 @@
 {
-  "name": "y",
-  "version": "1.0.0",
-  "description": "Portfolio",
+  "name": "deliacodes-portfolio",
+  "version": "0.0.1",
+  "description": "Delia Codes Portfolio Site",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,6 +10,14 @@
     "type": "git",
     "url": "git+https://github.com/DeliaCodes/bookish-telegram.git"
   },
+  "keywords": [
+    "portfolio",
+    "JavaScript",
+    "Web",
+    "Developer",
+    "HTML",
+    "CSS"
+  ],
   "author": "Delia Codes",
   "license": "ISC",
   "bugs": {
