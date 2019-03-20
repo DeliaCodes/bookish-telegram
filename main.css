@@ -3,7 +3,7 @@
 }
 
 body {
-  background-color: black;
+  background-color: #FFFCFD;
   width: 100%;
   height: auto;
   display: flex;
@@ -11,14 +11,18 @@ body {
 
 h1 {
 font-family: 'Roboto Slab', serif;
-color: aliceblue;
+color: #395043;
 margin: auto;
 
 }
 
 a {
-  color: aliceblue;
+  color: #395043;
 margin: auto;
 
+}
+
+.nav {
+  list-style: none;
 }
 
