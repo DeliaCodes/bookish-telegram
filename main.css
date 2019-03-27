@@ -3,24 +3,29 @@
 }
 
 body {
+  background: url(background.jpg);
+  background-size: cover;
   background-color: #FFFCFD;
+  color: #FFFCFD;
   width: 100%;
   height: auto;
   display: flex;
   flex-direction: column;
 }
 
+main {
+  display: flex;
+}
+
 h1 {
 font-family: 'Roboto Slab', serif;
-color: #395043;
 margin: auto;
-
 }
 
 a {
-  color: #395043;
 margin: auto;
-
+color: #FFFCFD;
+text-decoration: #FFFCFD;
 }
 
 .nav {
@@ -29,8 +34,10 @@ margin: auto;
 
 ul {
   display: flex; 
+  justify-content: space-between;
 }
 
 li {
-  margin-right: 2em;
+  display:flex;
+/*  margin-right: 2em; */
 }
