@@ -19,22 +19,24 @@ body {
 }
 
 section {
-  
   display: flex;
   flex-direction: column;
   text-align: center;
 }
 
 .aboutSection {
+  padding: 2em;
+}
+
+.sectionStyle {
+  border-radius: 1em;
   background-color: rgba(217, 240, 255, 0.4);
-  padding-left: 1em;
-  padding-right: 1em;
 }
 
 .portfolioItem {
-  background-color: rgba(217, 240, 255, 0.4);
   padding-left: 1em;
   padding-right: 1em;
+  margin-bottom: 2em;  
 }
 
 main {
@@ -42,21 +44,22 @@ main {
   flex-direction: column;
   margin: auto;
 }
+
 footer {
   display: flex;
 }
 
 h1 {
-font-family: 'Roboto Slab', serif;
-margin: auto;
-text-align: center;
-padding-top: 2em;
+  font-family: 'Roboto Slab', serif;
+  margin: auto;
+  text-align: center;
+  padding-top: 2em;
 }
 
 a {
-margin: auto;
-color: #FFFCFD;
-text-decoration: #FFFCFD;
+  margin: auto;
+  color: #FFFCFD;
+  text-decoration: #FFFCFD;
 }
 
 nav {
@@ -78,4 +81,8 @@ nav {
 
 li {
   display:flex;
+}
+
+address {
+  display: flex;
 }
