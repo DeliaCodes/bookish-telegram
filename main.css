@@ -85,4 +85,23 @@ li {
 
 address {
   display: flex;
+  flex-direction: row-reverse;
+  padding: 1em;
+  margin-bottom: 3em;
+}
+
+.contactLink {
+  font-style: normal;
+}
+
+@media only screen and (orientation: portrait) {
+
+* {
+    font-size: 1.1em; 
+}
+
+.stack {
+  flex-direction: column
+}
+
 }
