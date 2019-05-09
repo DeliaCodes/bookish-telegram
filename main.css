@@ -18,6 +18,10 @@ body {
   justify-content: space-between;
 }
 
+h2 {
+  text-align: center;
+}
+
 section {
   display: flex;
   flex-direction: column;
