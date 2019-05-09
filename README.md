@@ -1,3 +1,5 @@
-# Quick Portfolio Draft
+# Delia Codes Portfolio Website
 
-- posted using github pages
+- Proudly hand coded using HTML and CSS.
+
+[https://www.delia.codes](View the results)
