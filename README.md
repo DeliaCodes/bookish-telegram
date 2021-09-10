@@ -1,4 +1,4 @@
-# Delia Codes' Portfolio Site (version 0.0.1)
+# Delia Codes' Portfolio Site (version 0.2.0)
 
 
 - Proudly hand coded using HTML and CSS.
